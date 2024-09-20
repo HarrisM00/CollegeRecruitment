@@ -1,0 +1,6 @@
+.text-box {
+    flex: 1;
+    border: 2px solid #ccc;
+    padding: 20px;
+    max-width: 40%;
+  }
