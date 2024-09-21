@@ -53,5 +53,34 @@ img {
 }
 
 h1 { 
+  font-family: 'Roboto';
   text-align: center;
+  color: darkred;
+}
+h5 {
+  font-family: 'Roboto';
+
+  color: darkred ;
+}
+p {
+  color: red;
+}
+li {
+  color: red;
+}
+h3 {
+  font-family: 'Roboto';
+
+  color: darkred;
+}
+h2{
+  font-family: 'Roboto';
+
+  color: darkred;
+}
+body {
+  background-color: black;
+}
+.countdown {
+  color: white; 
 }
