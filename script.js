@@ -1,6 +1,6 @@
 function countdownTimer() {
     const deadline = new Date("Nov 15, 2024 23:59:59").getTime();
-    
+    // w3 schools
     // today's date and time
     const now = new Date().getTime();
     
